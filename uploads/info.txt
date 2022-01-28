@@ -1,0 +1,4 @@
+This directory must created to store uploaded file,
+
+the directory name must match with destination name
+defined in multer.diskStorage options callback.
